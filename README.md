@@ -23,9 +23,9 @@
 
 ## :rocket: Sobre o desafio
 
-Este é o terceiro desafio do Bootcamp GoStack #12, da <a href="https://rocketseat.com.br/">Rocketseat</a>, para treinar o que aprendi neste módulo de conceitos de ReactJS!
+Este é o terceiro desafio do Bootcamp GoStack #12, da <a href="https://rocketseat.com.br/">Rocketseat</a>, para treinar o que aprendi neste módulo de conceitos de ReactJS.
 
-Este é o front-end para criar e remover repositórios, interagindo com o backend do [último desafio](https://github.com/testtzlaffe/conceitos-nodejs) utilizando o Node.js.
+Este é o front-end para criar e remover repositórios, interagindo com o backend do [último desafio](https://github.com/testtzlaffe/conceitos-nodejs) no qual utilizei Node.js.
 
 <a id="tecnologias"></a>
 
