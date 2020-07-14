@@ -56,9 +56,9 @@ O projeto foi desenvolvido utilizando as tecnologias:
   # Instalar as bibliotecas e as dependências
   $ npm install (ou yarn)
 
-  # Iniciar o servidor
+  # Iniciar a aplicação
   $ cd conceitos-reactjs
-  $ npm run dev (ou yarn dev)
+  $ npm run start (ou yarn start)
 ```
 
 4. Para testar o funcionamento interagindo com o back-end, siga os passos descritos no repositório [conceitos-nodejs](https://github.com/testtzlaffe/conceitos-nodejs).
